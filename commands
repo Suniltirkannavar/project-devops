@@ -1,0 +1,19 @@
+i-insert at cursor(goes into insert mode).
+a-write after cursor(goes into insert mode).
+A-write at the end of line(goes into insert mode).
+esc-terminate insrt mode.
+u-undo at last change.
+U-undo all the chenges to the entire line.
+o- open a new line(goes into insert mode).
+dd-delete line.
+3dd-delete 3 lines
+D-delete contets of the line after cursor.
+C-delete contets of a line after the cursor and insert new text.press ecs key to end insertion.
+dw-delete word.
+4dw-delete 4 words.
+cw-chenge word.
+x-delete character.
+R-overwrite character at the cursor onword.
+s-substitute one character under cursorcontinue to insert.
+S-substitute entire line and begin to insert at the begining of the line.
+~-change case of individual character.
